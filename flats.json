@@ -5,7 +5,7 @@
     "price": 164,
     "priceCurrency": "EUR",
     "lat": 48.884211,
-    "lng": 2.346890,
+    "lng": 2.346890
   },
   {
     "name": "Trendy Apt in Buttes Montmartre",
@@ -13,7 +13,7 @@
     "price": 200,
     "priceCurrency": "EUR",
     "lat": 48.885707,
-    "lng": 2.343543,
+    "lng": 2.343543
   },
   {
     "name": "Super 60m2 in trendy neighborhood!",
@@ -21,7 +21,7 @@
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 48.885312,
-    "lng": 2.341225,
+    "lng": 2.341225
   },
   {
     "name": "Splendide terrasse vue imprenable",
@@ -29,7 +29,7 @@
     "price": 115,
     "priceCurrency": "EUR",
     "lat": 48.881840,
-    "lng": 2.343371,
+    "lng": 2.343371
   },
   {
     "name": "Superbe vue à 2 min du Sacré Coeur",
@@ -37,7 +37,7 @@
     "price": 135,
     "priceCurrency": "EUR",
     "lat": 48.888839,
-    "lng": 2.339208,
+    "lng": 2.339208
   },
   {
     "name": "Bohemian and Chic in Paris",
@@ -45,6 +45,6 @@
     "price": 90,
     "priceCurrency": "EUR",
     "lat": 48.827855,
-    "lng": 2.350774,
+    "lng": 2.350774
   }
 ]
