@@ -38,5 +38,13 @@
     "priceCurrency": "EUR",
     "lat": 48.888839,
     "lng": 2.339208,
+  },
+  {
+    "name": "Bohemian and Chic in Paris",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 48.827855,
+    "lng": 2.350774,
   }
 ]
